@@ -41,10 +41,8 @@ Follow these steps to set up the project locally:
    npm install
    ```
 
-3. **Install dependencies:**
+3. **Run test:**
 
    ```bash
-   npm run dev
+   npm run test
    ```
-
-   This will start the development server, and you can view the project by navigating to http://localhost:5173.
